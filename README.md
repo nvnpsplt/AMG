@@ -32,10 +32,6 @@ Atturu’s Mango Garden Rd, Balija Palli, PV Puram Panchayath,
 
 Tirupathi, A.P, 517561
 
-```sh
-make install
-npm test
-```
 
 ## Release History
 
