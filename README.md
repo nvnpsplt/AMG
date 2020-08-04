@@ -24,8 +24,6 @@ Contact us:
 
 Nageswara Reddy Atturu
 
-+91 94405-79724
-
 atturusmangogarden@gmail.com
 
 Atturu’s Mango Garden Rd, Balija Palli, PV Puram Panchayath,
