@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:fontFamily="@font/circular"
+        android:cacheColorHint="@color/colorAccent"
+        android:divider = "@color/colorPrimary"
+        android:dividerHeight = "1dp"
+        android:footerDividersEnabled="true" />
+
+    <Button
+        android:id="@+id/buttonDismiss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:textAllCaps="false"
+        android:text="@string/dismiss"
+        android:textColor="#FFFFFF"
+        android:fontFamily="@font/circular"
+        tools:ignore="TextViewEdits" />
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300219121307",
+    "firebase_url": "https://amg1504-538e7.firebaseio.com",
+    "project_id": "amg1504-538e7",
+    "storage_bucket": "amg1504-538e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300219121307:android:35fcab83a4974fde71103e",
+        "android_client_info": {
+          "package_name": "com.master.gardens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300219121307-uv9u49hb28j1mjbe122k5ssbcv9k9uu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDBBo_WNe7hTCIMzIDnQoB9xHg8gWP3sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300219121307-uv9u49hb28j1mjbe122k5ssbcv9k9uu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

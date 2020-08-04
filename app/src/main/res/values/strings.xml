@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AMG</string>
+    <string name="amg">Atturu\'s \n Mango Gardens</string>
+    <string name="about">More info</string>
+    <string name="trees">Search</string>
+    <string name="home">Home</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="filter">Search</string>
+    <string name="select_fruit">Select Fruit</string>
+    <string name="Fruit">Select Fruit:</string>
+    <string name="Gatewall">Select Gate valve:</string>
+    <string name="btn_login">Login</string>
+    <string name="minimum_password">Password is too short</string>
+    <string name="auth_failed">Authentication failed! \n Please check your Email and Password </string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="logout">Logout</string>
+    <string name="authentincation_required">Authentincation Required</string>
+    <string name="quote">The best quality of harvest you could ever ask for… \n comes from the greatest efforts of farmers.</string>
+    <string name="Author">- A.N. Reddy</string>
+    <string name="address">Contact us: \n Nageswara Reddy Atturu\n +91 94405-79724 \n atturusmangogarden@gmail.com\n Atturu’s Mango Garden Rd, Balija Palli,\n Tirupathi, A.P, 517561</string>
+    <string name="Fruit_Types">Here is a list of types of Mangoes in AMG \n ·Benisha/Banginapalli \n ·Himayuddin/Imampasand \n ·Juice Mango \n ·Khadar \n ·Neelam \n ·Neelesha \n ·Bengalur \n ·Pickle Mango \n ·Punasa \n ·Pulavar/Sindhura</string>
+</resources>
